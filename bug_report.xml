@@ -1,1 +1,7 @@
+<Name> Название </Name>
+<Description> Описание </Description>
+<ExpectedResult> Ожидаемый результат </ExpectedResult>
+<ActualResult> Фактический результат </ActualResult>
+<Seviority> Серьезность </Seviority>
+<Priority>  Приоритет</Priority>
 
